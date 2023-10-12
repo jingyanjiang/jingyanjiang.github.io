@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download CV here](http://academicpages.github.io/files/Resume_JingyanJiang.pdf)
+[Download CV here](http://jingyanjiang.github.io/files/Resume_JingyanJiang.pdf)
 
 Education
 ======
