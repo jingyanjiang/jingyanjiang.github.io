@@ -35,7 +35,6 @@ Research experience
   * **About**: Detected the local real estate market with potential appreciation based on news data using the **BERT** model
     
 * **New-Energy Vehicle Industry Policy Evaluation (Published by Heinz Journal)**
-  * **Carnegie Mellon University**
   * **July. 2019 - Oct. 2022**
   * **About**: Used a high-dimensional fixed-effect model to examine the impact of new-energy vehicle industry policies on new registrations (i.e., sales) of new-energy vehicles
   
