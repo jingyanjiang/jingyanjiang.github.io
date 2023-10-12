@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{%files/Resume_JingyanJiang.pdf%}
+[Download paper here](http://academicpages.github.io/files/Resume_JingyanJiang.pdf)
 
 Education
 ======
