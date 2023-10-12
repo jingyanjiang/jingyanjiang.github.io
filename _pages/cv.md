@@ -18,7 +18,7 @@ Skills
 ======
 * **Languages**: Python, Java, SQL, HTML, JavaScript
 * **Computer Science**: PyTorch, Tensorflow, Hadoop, Spark, MongoDB, Tableau, Sklearn, AWS, Docker, Node.js, Object Oriented Programming, Multi-thread Programming
-* **Data Analytics**: BERT, GPT, CNN, BiLSTM, Logistic Regression, Random Forest, KMeans, XGBoost, GBDT regression, TF-IDF 
+* **Data Analytics**: BERT, GPT, CNN, BiLSTM, Node2Vec, Graph Attention, Logistic Regression, Random Forest, KMeans, XGBoost, GBDT regression, TF-IDF 
 
 Research experience
 ======
