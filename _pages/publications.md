@@ -15,11 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-* **Title: Demands in Bike-Sharing System**
+* **Demands in Bike-Sharing System**
 
   * Aim for Transportation Science Special Section: Machine Learning Methods for Urban Passenger Mobility
 
-* **Title: The Impact of Industrial Policies in the New-Energy Vehicle Industry in China**
+* **The Impact of Industrial Policies in the New-Energy Vehicle Industry in China**
 
   * Published in Heinz Journal in Dec. 2022
 
