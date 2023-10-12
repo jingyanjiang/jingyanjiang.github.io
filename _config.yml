@@ -84,25 +84,25 @@ author:
   avatar           : "profile.png"
   bio              : "AI Researcher at Edison Lab"
   location         : "Pittsburgh, PA"
-  employer         : "Edison Lab"
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : 
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "jingyanj@alumni.cmu.edu"
-  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  # uri              :
-  # bitbucket        :
-  # codepen          :
-  # dribbble         :
-  # flickr           :
-  # facebook         :
-  # foursquare       :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
   github           : "jingyanjiang"
   # google_plus      :
   # keybase          :
   # instagram        :
   # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   # lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jingyan-jiang/"
+  linkedin         : "jingyan-jiang"
   # orcid            : "http://orcid.org/yourorcidurl"
   # pinterest        :
   soundcloud       :
