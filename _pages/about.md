@@ -14,5 +14,7 @@ My name is Jane (Jingyan) Jiang, I graduated from the Master of Information Syst
 
 Research Interests
 ======
-My academic interests encompass **causal inference** and **machine learning**, with a focus on **data-driven complex decision-making problems**. Currently, I am studying the effect of bike-sharing station changes on shared bikes' demand and supply and the fairness of the bike-sharing system using causal approaches under the guidance of **Professor Woody Zhu**.
+My academic interests encompass **machine learning**, **data mining**, and **causal inference**, with a focus on **data-driven complex decision-making problems**. Besides, I am also interested in the Large Language Model area. 
+
+Currently, I am studying the effect of bike-sharing station changes on shared bikes' demand and supply and the fairness of the bike-sharing system using causal approaches under the guidance of **Professor Woody Zhu**.
 
