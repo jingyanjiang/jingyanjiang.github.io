@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jane (Jingyan) Jiang, I graduated from the Master of Information Systems Management program at Carnegie Mellon University. I got my Bachelor of Economics degree from Xiamen University with the highest distinction.
+My name is Jane (Jingyan) Jiang, I graduated from the Master of Information Systems Management program at **Carnegie Mellon University**. I got my Bachelor of Economics degree from Xiamen University with the highest distinction. I currently work as a Predoctoral Appointee at **Argonne National Lab** focusing on data mining and machine learning.
 
-**I am actively applying to the 2024 fall Ph.D. programs!**
+**I am actively applying to the 2025 fall Ph.D. programs!**
 
 Research Interests
 ======
